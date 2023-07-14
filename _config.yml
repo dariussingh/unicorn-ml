@@ -28,7 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 repository: dariussingh/unicorn-ml # for github-metadata
 twitter_username: dariussingh10
 github_username: dariussingh
-favicon_ico: "/assets/favicon.ico"
+favicon_ico: "/assets/favicon.svg"
 
 permalink: pretty
 
@@ -58,7 +58,7 @@ plugins:
 #   - vendor/ruby/
 
 # Set a path/url to a logo that will be displayed instead of the title
-#logo: "/assets/images/just-the-docs.png"
+# logo: "/assets/logo.svg"
 
 # Enable or disable the site search
 # Supports true (default) or false

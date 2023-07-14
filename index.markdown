@@ -8,8 +8,7 @@ nav_order: 1
 permalink: /
 ---
 
-# Learn machine learning
-
+Learn machine learning
 {: .fs-9 }
 
 UnicornML is a publicly available repository of information on machine learning and related technologies, designed to help you develop the skills to utilize technology for problem-solving purposes.
