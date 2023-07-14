@@ -1,0 +1,14 @@
+.vscode
+Gemfile.lock
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+*.gem
+.bundle
+.ruby-version
+node_modules
+.DS_Store
+testing
+
