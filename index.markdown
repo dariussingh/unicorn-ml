@@ -111,5 +111,5 @@ UnicornML is currently in development, you can expect the following tutorials to
 
 ---
 
-[UnicornML Repo]: https://github.com/dariussingh/UnicornML
+[UnicornML Repo]: https://github.com/dariussingh/unicorn-ml
 [Darius Singh GitHub]: https://github.com/dariussingh
