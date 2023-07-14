@@ -9,14 +9,14 @@ permalink: /
 ---
 
 # Learn machine learning
+
 {: .fs-9 }
 
 UnicornML is a publicly available repository of information on machine learning and related technologies, designed to help you develop the skills to utilize technology for problem-solving purposes.
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View it on GitHub][Major League Machine Learning Repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
-
+[View it on GitHub][UnicornML Repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ## Getting started
 
@@ -24,34 +24,39 @@ Hello and welcome to UnicornML by [Darius Singh][Darius Singh GitHub]. The objec
 
 You can follow the tutorials in their order or pick any section that interests you and then dive in.
 
-Major League Machine Learning is currently in development, you can expect the following tutorials to be added in the coming weeks.
+UnicornML is currently in development, you can expect the following tutorials to be added in the coming weeks.
 
-__Foundations__
+**Foundations**
+
 - [ ] Python
 - [ ] SQL
 - [ ] PowerBI
 - [ ] Git
 
-__Web Development__
+**Web Development**
+
 - [ ] Flask
 - [ ] Django
 - [ ] FastAPI
 - [ ] Streamlit
 - [ ] Gradio
 
-__Data and Visualization__
+**Data and Visualization**
+
 - [ ] Matplotlib
 - [ ] Seaborn
 - [ ] Plotly
 - [ ] Pandas
 - [ ] Numpy
 
-__Data Engineering__
+**Data Engineering**
+
 - [ ] PySpark
 - [ ] Scala
 - [ ] Databricks
 
-__Machine Learning and Deep Learning__
+**Machine Learning and Deep Learning**
+
 - [ ] Machine Learning
 - [ ] Scikit Learn
 - [ ] Deep Learning
@@ -65,25 +70,28 @@ __Machine Learning and Deep Learning__
 - [ ] XGBoost
 - [ ] Fast.ai
 - [ ] Caffe
-- [ ] Theano 
+- [ ] Theano
 - [ ] Optuna
 - [ ] HyperOpt
 - [ ] HF Transformers
 
-__Computer Vision__
+**Computer Vision**
+
 - [ ] Computer Vision
 - [ ] Albumentations
 - [ ] Ultralytics
 - [ ] Roboflow
 - [ ] Mediapipe
 
-__Natural Language Processing__
+**Natural Language Processing**
+
 - [ ] Natural Language Processing
 - [ ] LangChain
 - [ ] OpenLLM
 - [ ] LMFlow
 
-__MLOps__
+**MLOps**
+
 - [ ] MLOps
 - [ ] Weights & Biases
 - [ ] MLFLow
@@ -94,14 +102,14 @@ __MLOps__
 - [ ] Airflow
 - [ ] DVC
 
-__Infrastructure__
+**Infrastructure**
+
 - [ ] Amazon Web Services
 - [ ] Microsoft Azure
 - [ ] Google Cloud
 - [ ] Terraform
 
+---
 
-----
-
-[Major League Machine Learning Repo]: https://github.com/dariussingh/major-league-machine-learning
+[UnicornML Repo]: https://github.com/dariussingh/UnicornML
 [Darius Singh GitHub]: https://github.com/dariussingh
