@@ -53,6 +53,7 @@ UnicornML is currently in development, you can expect the following tutorials to
 - [ ] PySpark
 - [ ] Scala
 - [ ] Databricks
+- [ ] Kubernetes
 
 **Machine Learning and Deep Learning**
 
@@ -72,7 +73,12 @@ UnicornML is currently in development, you can expect the following tutorials to
 - [ ] Theano
 - [ ] Optuna
 - [ ] HyperOpt
-- [ ] HF Transformers
+- [ ] HuggingFace Transformers
+- [ ] Machine Unlearning
+- [ ] Quantum Machine Learning
+- [ ] Federated Learning
+- [ ] Distributed Learning
+- [ ] DeepSpeed
 
 **Computer Vision**
 
@@ -88,6 +94,10 @@ UnicornML is currently in development, you can expect the following tutorials to
 - [ ] LangChain
 - [ ] OpenLLM
 - [ ] LMFlow
+- [ ] LLMOps
+- [ ] LLM
+- [ ] Vector Database
+- [ ] EmbedChain
 
 **MLOps**
 
@@ -105,8 +115,14 @@ UnicornML is currently in development, you can expect the following tutorials to
 
 - [ ] Amazon Web Services
 - [ ] Microsoft Azure
-- [ ] Google Cloud
+- [ ] Google Cloud Platform
 - [ ] Terraform
+
+**Other**
+
+- [ ] Bash
+- [ ] Rust
+- [ ] C++
 
 ---
 
