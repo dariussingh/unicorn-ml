@@ -3,7 +3,7 @@ layout: default
 title: Group Anagrams
 parent: Arrays & Hashing
 grand_parent: Data Structures and Algorithms
-nav_order: 3
+nav_order: 4
 ---
 
 # Group Anagrams
