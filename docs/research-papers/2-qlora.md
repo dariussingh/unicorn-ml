@@ -27,7 +27,7 @@ QLoRA introduces the following innovations to reduce memory usage without sacrif
    - A method that quantizes the quantization constraints saving additional memory (approx. 3 GB for a 65B model).
    - DQ symmetrical quantizes the 32-bit Floating Point (FP32) quantization constants of the first quantization into 8-bit Floating Point (FP8) quantized quantization constants.
 
-3. Paged Optimizers:
+3. **Paged Optimizers:**
 
    - Manage memory spikes during gradient checkpointing and prevent out-of-memory errors.
    - Done by allocating paged memory for the optimizer states which are then automatically evicted to CPU RAM when the GPU runs out of memory and paged back into GPU memory when the memory is needed in the optimizer update step.
